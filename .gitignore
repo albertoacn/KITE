@@ -1,0 +1,8 @@
+.idea
+logs
+kite-base.iml
+KITE-*/*.iml
+KITE-*/target
+KITE-*/.*
+KITE-Engine/src/main/java/org/webrtc/kite/KiteTest.java
+KITE-Engine/src/main/java/org/webrtc/kite/IceConnectionTest.java
